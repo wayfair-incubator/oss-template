@@ -14,7 +14,7 @@ The `<project name>` team and community take all security bugs in
 `<project name>`. We appreciate your efforts and responsible disclosure and
 will make every effort to acknowledge your contributions.
 
-Report security bugs by emailing `<email address>`.
+Report security bugs by emailing `OpenSource@wayfair.com`.
 
 The lead maintainer will acknowledge your email within 48 hours, and will send a
 more detailed response within 48 hours indicating the next steps in handling
@@ -31,7 +31,7 @@ involving the following steps:
   * Confirm the problem and determine the affected versions.
   * Audit code to find any potential similar problems.
   * Prepare fixes for all releases still under maintenance. These fixes will be
-    released as fast as possible to npm.
+    released as quickly as possible.
 
 ## Comments on this Policy
 

@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to `<project name>`! Here are a few general guidelines on contributing and
 reporting bugs that we ask you to review. Following these guidelines helps to communicate that you respect the time of
-the developers managing and developing this open source project. In return, they should reciprocate that respect in
+the contributors managing and developing this open source project. In return, they should reciprocate that respect in
 addressing your issue, assessing changes, and helping you finalize your pull requests. In that spirit of mutual respect,
 we endeavour to review incoming issues and pull requests within 10 days, and will close any lingering issues or pull
 requests after 60 days of inactivity.
@@ -22,13 +22,13 @@ possible, and, if possible, a test case.
 
 ## Sending Pull Requests
 
-Before sending a new Pull Request, take a look at existing Pull Requests and Issues to see if the proposed change or fix
+Before sending a new pull request, take a look at existing pull requests and issues to see if the proposed change or fix
 has been discussed in the past, or if the change was already implemented but not yet released.
 
-We expect new Pull Requests to include tests for any affected behavior, and, as we follow semantic versioning, we may
+We expect new pull requests to include tests for any affected behavior, and, as we follow semantic versioning, we may
 reserve breaking changes until the next major version release.
 
-## Other ways to contribute
+## Other Ways to Contribute
 
 We welcome anyone that wants to contribute to `<project name>` to triage and reply to open issues to help troubleshoot
 and fix existing bugs. Here is what you can do:
@@ -37,7 +37,7 @@ and fix existing bugs. Here is what you can do:
   providing feedback to the issue's author on what might be missing.
 * Review and update the existing content of our [Wiki](https://github.com/org_name/repo_name/wiki) with up-to-date
   instructions and code samples.
-* Review existing Pull Requests, and testing patches against real existing applications that use `<project name>`.
+* Review existing pull requests, and testing patches against real existing applications that use `<project name>`.
 
 Thanks again for your interest on contributing to `<project name>`!
 
