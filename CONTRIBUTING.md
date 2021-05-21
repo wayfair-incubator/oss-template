@@ -7,7 +7,9 @@ addressing your issue, assessing changes, and helping you finalize your pull req
 we endeavour to review incoming issues and pull requests within 10 days, and will close any lingering issues or pull
 requests after 60 days of inactivity.
 
-Please note that all of your interactions in the project are subject to our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all of your interactions in the project are subject to our [Code of Conduct](CODE_OF_CONDUCT.md). This
+includes creation of issues or pull requests, commenting on issues or pull requests, and extends to all interactions in
+any real-time space (eg. Slack, Discord, etc).
 
 ## Reporting Issues
 
