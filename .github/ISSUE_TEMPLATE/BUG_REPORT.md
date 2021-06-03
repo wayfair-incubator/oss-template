@@ -1,3 +1,12 @@
+---
+name: Bug Report
+about: Report a bug to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Description
 
 Please provide a description of the problem.
