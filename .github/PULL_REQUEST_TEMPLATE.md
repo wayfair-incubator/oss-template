@@ -1,8 +1,8 @@
 ## Description
 
-<!-- TODO: Delete this comment and replace it with a meaningful description of what this change will do, or is for. Bonus points for linking back to related issues or PRs!  -->
+Please provide a meaningful description of what this change will do, or is for. Bonus points for including links to related issues, other PRs, or technical references.
 
-<!-- Please note that by not including a description, you are asking reviewers to do extra work to understand the context of this change, which may lead to your PR taking much longer to review, or result in it not being reviewed at all. -->
+Note that by _not_ including a description, you are asking reviewers to do extra work to understand the context of this change, which may lead to your PR taking much longer to review, or result in it not being reviewed at all.
 
 ## Type of Change
 
@@ -16,7 +16,6 @@
 ## Checklist
 
 <!-- TODO: Update the link below to point to your project's contributing guidelines -->
-
 - [ ] I have read the [contributing guidelines](https://github.com/wayfair-incubator/oss-template/blob/main/CONTRIBUTING.md)
 - [ ] Existing issues have been referenced (where applicable)
 - [ ] I have verified this change is not present in other open pull requests
