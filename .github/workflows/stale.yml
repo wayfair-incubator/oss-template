@@ -10,12 +10,14 @@ jobs:
     permissions:
       issues: write
       pull-requests: write
-    
+
     steps:
     - uses: actions/stale@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        days-before-stale: 60
         stale-issue-message: 'Automatically marking issue as stale due to lack of activity'
         stale-pr-message: 'Automatically marking pull request as stale due to lack of activity'
+        days-before-close: 7
         close-issue-message: 'Automatically closing stale issue'
         close-pr-message: 'Automatically closing stale pull request'
