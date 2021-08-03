@@ -1,5 +1,6 @@
 # OSPO Project Template
 
+![Release](https://img.shields.io/badge/OSS%20Template-0.4.0-brightgreen.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ## Before You Start...
@@ -23,6 +24,7 @@ In trying to keep this template as generic and reusable as possible, there are s
    - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
    - [ ] In [`SECURITY.md`](SECURITY.md)
 - [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md)
+- [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourgage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
 - [ ] Replace the generic content in this file with the relevant details about your project
 - [ ] Delete this section of the README
 
