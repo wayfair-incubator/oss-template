@@ -13,4 +13,4 @@ jobs:
       uses: avto-dev/markdown-lint@v1
       with:
         config: '.github/workflows/config/markdown-lint.json'
-        args: '**/*.md'
+        args: '**/*.md .github/**/*.md'
