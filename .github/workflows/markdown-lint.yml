@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Lint Markdown files
-      uses: avtodev/markdown-lint@v1
+      uses: avto-dev/markdown-lint@v1
       with:
         config: '.github/workflows/config/markdown-lint.json'
         args: '**/*.md'
