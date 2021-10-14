@@ -1,6 +1,6 @@
 # OSPO Project Template
 
-[![OSS Template Version](https://img.shields.io/badge/OSS%20Template-0.3.1-7f187f.svg)](https://github.com/wayfair-incubator/oss-template/)
+[![OSS Template Version](https://img.shields.io/badge/OSS%20Template-0.3.3-7f187f.svg)](https://github.com/wayfair-incubator/oss-template/blob/main/CHANGELOG.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ## Before You Start
