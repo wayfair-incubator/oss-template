@@ -86,5 +86,5 @@ Project Link: [https://github.com/org_name/repo_name](https://github.com/org_nam
 
 ## Acknowledgements
 
-This template adapted from
-[https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+This template was adapted from
+[https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template).
