@@ -26,8 +26,8 @@ Please provide the version number where this issue was encountered.
 ## Steps to Reproduce
 
 1. First step
-1. Second step
-1. etc.
+2. Second step
+3. etc.
 
 ## Checklist
 
