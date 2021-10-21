@@ -1,6 +1,6 @@
 # OSPO Project Template
 
-[![OSS Template Version](https://img.shields.io/badge/OSS%20Template-0.3.4-7f187f.svg)](https://github.com/wayfair-incubator/oss-template/blob/main/CHANGELOG.md)
+[![OSS Template Version](https://img.shields.io/badge/OSS%20Template-0.3.5-7f187f.svg)](https://github.com/wayfair-incubator/oss-template/blob/main/CHANGELOG.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ## Before You Start
@@ -11,6 +11,7 @@ In trying to keep this template as generic and reusable as possible, there are s
 
 - [ ] Select an appropriate license for your project. This can easily be achieved through the 'Add File' button on the GitHub UI, naming the file `LICENSE`, and selecting your desired license from the provided list.
 - [ ] Update the `<License name>` placeholder in this file to reflect the name of the license you selected above
+- [ ] Replace `[INSERT CONTACT METHOD]` in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication channel
 - [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `wayfair-incubator`)
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
