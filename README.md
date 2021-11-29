@@ -25,7 +25,7 @@ In trying to keep this template as generic and reusable as possible, there are s
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
   - [ ] In [`SECURITY.md`](SECURITY.md)
 - [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md)
-- [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourgage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
+- [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
 - [ ] Replace the generic content in this file with the relevant details about your project
 - [ ] Delete this section of the README
 
