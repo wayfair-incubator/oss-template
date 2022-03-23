@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.6] - 2022-03-22
 
 - Bumps actions/checkout from 2 to 3
+- Adds new template badges to README
 
 ## [0.3.5] - 2021-10-21
 
