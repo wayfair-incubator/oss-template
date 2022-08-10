@@ -1,0 +1,26 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Renovate configuration recommended by the Wayfair OSPO",
+  "labels": [
+    "renovate/{{depName}}"
+  ],
+  "extends": [
+    "config:base",
+    ":rebaseStalePrs",
+    "schedule:earlyMondays"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "groupName": "Minor Updates",
+      "automerge": true
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "GitHub Actions"
+    }
+  ]
+}

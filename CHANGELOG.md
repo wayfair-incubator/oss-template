@@ -5,14 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Recommended configuration for [renovate](https://github.com/renovatebot/renovate)
+- Linting workflow for `renovate.json` config
+
+### Changed
+
+- Pinned v4 of [github-pages-deploy-action](https://github.com/marketplace/actions/deploy-to-github-pages)
+- Removed [dependabot](https://github.com/dependabot) configuration
+
 ## [0.3.7] - 2022-04-04
+
+### Changed
 
 - Update lint workflow trigger behavior
 
 ## [0.3.6] - 2022-03-22
 
-- Bumps actions/checkout from 2 to 3
+### Added
+
 - Adds new template badges to README
+
+### Changed
+
+- Bumps [actions/checkout](https://github.com/marketplace/actions/checkout) from v2 to v3
 
 ## [0.3.5] - 2021-10-21
 
@@ -88,3 +107,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Maintainers file
 - README template
 - Security guidance
+
+[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.7...HEAD
+[0.3.7]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.6...v0.3.7
+[0.3.6]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.5...v0.3.6
+[0.3.5]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.4...v0.3.5
+[0.3.4]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.3...v0.3.4
+[0.3.3]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.2...v0.3.3
+[0.3.2]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.1...v0.3.2
+[0.3.1]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.0...v0.3.1
+[0.3.0]: https://github.com/wayfair-incubator/oss-template/compare/v0.2.1...v0.3.0
+[0.2.1]: https://github.com/wayfair-incubator/oss-template/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/wayfair-incubator/oss-template/compare/v0.1.1...v0.2.0
+[0.1.1]: https://github.com/wayfair-incubator/oss-template/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/wayfair-incubator/oss-template/releases/tag/v0.1.0

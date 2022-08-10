@@ -9,28 +9,29 @@
 
 As much as possible, we have tried to provide enough tooling to get you up and running quickly and with a minimum of effort. This includes sane defaults for documentation; templates for bug reports, feature requests, and pull requests; and [GitHub Actions](https://github.com/features/actions) that will automatically manage stale issues and pull requests. This latter defaults to labeling issues and pull requests as stale after 60 days of inactivity, and closing them after 7 additional days of inactivity. These [defaults](.github/workflows/stale.yml) and more can be configured. For configuration options, please consult the documentation for the [stale action](https://github.com/actions/stale).
 
-In trying to keep this template as generic and reusable as possible, there are some things that were omitted out of necessity and others that need a little tweaking. Before you begin developing in earnest, there are a few changes that need to be made.
+In trying to keep this template as generic and reusable as possible, there are some things that were omitted out of necessity and others that need a little tweaking. Before you begin developing in earnest, there are a few changes that need to be made:
 
 - [ ] Select an appropriate license for your project. This can easily be achieved through the 'Add File' button on the GitHub UI, naming the file `LICENSE`, and selecting your desired license from the provided list.
-- [ ] Update the `<License name>` placeholder in this file to reflect the name of the license you selected above
-- [ ] Replace `[INSERT CONTACT METHOD]` in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication channel
-- [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `wayfair-incubator`)
+- [ ] Update the `<License name>` placeholder in this file to reflect the name of the license you selected above.
+- [ ] Replace `[INSERT CONTACT METHOD]` in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication channel.
+- [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `wayfair-incubator`):
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [ ] Change references to `repo_name` to the name of your new repo
+- [ ] Change references to `repo_name` to the name of your new repo:
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [ ] Update the link to the contribution guidelines to point to your project
+- [ ] Update the link to the contribution guidelines to point to your project:
   - [ ] In [`.github/ISSUE_TEMPLATE/BUG_REPORT.md`](.github/ISSUE_TEMPLATE/BUG_REPORT.md)
   - [ ] In [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md)
-- [ ] Replace the `<project name>` placeholder with the name of your project
+- [ ] Replace the `<project name>` placeholder with the name of your project:
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
   - [ ] In [`SECURITY.md`](SECURITY.md)
-- [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md)
+- [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md).
 - [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Replace the generic content in this file with the relevant details about your project
-- [ ] Acknowledge that some features like [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule) are only available when the repo is `public`
-- [ ] Delete this section of the README
+- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling needs. You can enable enable specific [package managers](https://docs.renovatebot.com/modules/manager/), create [custom schedules](https://docs.renovatebot.com/presets-schedule/), [group updates](https://docs.renovatebot.com/presets-group/) together by type, [auto-merge PRs](https://docs.renovatebot.com/configuration-options/#automerge), and [much more](https://docs.renovatebot.com/). Check [here](https://github.com/wayfair-incubator/forker/blob/main/renovate.json) for an example TypeScript project configuration.
+- [ ] Replace the generic content in this file with the relevant details about your project.
+- [ ] Acknowledge that some features like [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule) are only available when the repo is `public`.
+- [ ] Delete this section of the `README`.
 
 ## About The Project
 
