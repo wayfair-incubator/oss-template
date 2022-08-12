@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### TBA
+
+## [0.3.8] - 2022-08-12
+
 ### Added
 
 - Recommended configuration for [renovate](https://github.com/renovatebot/renovate)
@@ -108,7 +112,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README template
 - Security guidance
 
-[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.7...HEAD
+[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.8...HEAD
+[0.3.8]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.7...v0.3.8
 [0.3.7]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.6...v0.3.7
 [0.3.6]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.5...v0.3.6
 [0.3.5]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.4...v0.3.5
