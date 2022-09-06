@@ -11,7 +11,7 @@ As much as possible, we have tried to provide enough tooling to get you up and r
 
 In trying to keep this template as generic and reusable as possible, there are some things that were omitted out of necessity and others that need a little tweaking. Before you begin developing in earnest, there are a few changes that need to be made:
 
-- [ ] Select an appropriate license for your project. This can easily be achieved through the 'Add File' button on the GitHub UI, naming the file `LICENSE`, and selecting your desired license from the provided list.
+- [ ] ✅ Select an appropriate license for your project. This can easily be achieved through the 'Add File' button on the GitHub UI, naming the file `LICENSE`, and selecting your desired license from the provided list.
 - [ ] Update the `<License name>` placeholder in this file to reflect the name of the license you selected above.
 - [ ] Replace `[INSERT CONTACT METHOD]` in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication channel.
 - [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `wayfair-incubator`):
@@ -28,10 +28,11 @@ In trying to keep this template as generic and reusable as possible, there are s
   - [ ] In [`SECURITY.md`](SECURITY.md)
 - [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md).
 - [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling needs. You can enable enable specific [package managers](https://docs.renovatebot.com/modules/manager/), create [custom schedules](https://docs.renovatebot.com/presets-schedule/), [group updates](https://docs.renovatebot.com/presets-group/) together by type, [auto-merge PRs](https://docs.renovatebot.com/configuration-options/#automerge), and [much more](https://docs.renovatebot.com/). Check [here](https://github.com/wayfair-incubator/forker/blob/main/renovate.json) for an example TypeScript project configuration.
+- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling dependencies. 
+  - [ ] 💡 To learn more about using and configuring [Renovate](http://renovatebot.com/), check out our [wayfair.github.io](https://wayfair.github.io) article: **[Managing Project Dependencies](https://wayfair.github.io/docs/managing-dependencies/)**.
 - [ ] Replace the generic content in this file with the relevant details about your project.
 - [ ] Acknowledge that some features like [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule) are only available when the repo is `public`.
-- [ ] Delete this section of the `README`.
+- [ ] 🚨 Delete this section of the `README`!
 
 ## About The Project
 
