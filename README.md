@@ -28,7 +28,7 @@ In trying to keep this template as generic and reusable as possible, there are s
   - [ ] In [`SECURITY.md`](SECURITY.md)
 - [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md).
 - [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling dependencies. 
+- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling dependencies.
   - [ ] 💡 To learn more about using and configuring [Renovate](http://renovatebot.com/), check out our [wayfair.github.io](https://wayfair.github.io) article: **[Managing Project Dependencies](https://wayfair.github.io/docs/managing-dependencies/)**.
 - [ ] Replace the generic content in this file with the relevant details about your project.
 - [ ] Acknowledge that some features like [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule) are only available when the repo is `public`.
