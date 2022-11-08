@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### TBA
 
+## [0.3.9] - 2022-11-08
+
+### Changed
+
+- Leveraging [hosted presets](https://docs.renovatebot.com/config-presets/) for `renovate.json` config
+
 ## [0.3.8] - 2022-08-15
 
 ### Added
@@ -112,7 +118,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README template
 - Security guidance
 
-[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.8...HEAD
+[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.9...HEAD
+[0.3.9]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.8...v0.3.9
 [0.3.8]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.7...v0.3.8
 [0.3.7]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.6...v0.3.7
 [0.3.6]: https://github.com/wayfair-incubator/oss-template/compare/v0.3.5...v0.3.6
